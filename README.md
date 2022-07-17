@@ -13,7 +13,9 @@ A backend API setup for a potential social network app. Within the app there are
 Deployed application [_here_](https://enigmatic-brook-90148.herokuapp.com/)
  
 ## Screenshot
-/Users/abstrack/Desktop/budget-tracker-v2.0/public/images/C8831517-1C46-436C-8EBE-77F1709C56D6.jpeg
+![C8831517-1C46-436C-8EBE-77F1709C56D6](https://user-images.githubusercontent.com/100798134/179384455-95a445ff-3cb1-415f-826a-c41ace2bf8bf.jpeg)
+
+
 
 ## Technologies
 * Javascript
