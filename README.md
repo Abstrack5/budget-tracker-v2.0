@@ -1,5 +1,5 @@
 # budget-tracker-v2.0
-A backend API setup for a potential social network app. Within the app there are many API calls that can be made, such as creating a user, delete a user, update their user information, make a thought, delete a thought, update a thought, add friends to friends list, post a reaction to another users thought, and delete their reaction.
+An application to simply track ones budget spendings and most importantly payday! The application is fully functioning with offline capabilities to submit user inputs once regaining internet connection. Application is has PWA capability, application can be fully downloaded and operated from users desktop or mobile device.
 
 ## Table of Contents
 * [Website](#Website)
