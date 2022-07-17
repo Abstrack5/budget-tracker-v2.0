@@ -3,13 +3,17 @@ A backend API setup for a potential social network app. Within the app there are
 
 ## Table of Contents
 * [Website](#Website)
+* [Screenshot](#Screenshot)
 * [Technologies](#Technologies)
 * [Usage](#Usage)
 * [Copyright](#Copyright)
 
 
- ## Website
-![](Public/Images/C8831517-1C46-436C-8EBE-77F1709C56D6.jPEG)
+## Website
+Deployed application [_here_](https://enigmatic-brook-90148.herokuapp.com/)
+ 
+## Screenshot
+/Users/abstrack/Desktop/budget-tracker-v2.0/public/images/C8831517-1C46-436C-8EBE-77F1709C56D6.jpeg
 
 ## Technologies
 * Javascript
